@@ -8,6 +8,6 @@
 
 # 2 - create simple UI and display the players and status - DONE
 
-# 3 - Display player attributes
+# 3 - Display player attributes - DONE
 
 # 4 - Crete simple game mechanics
