@@ -1,0 +1,13 @@
+.player {
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  margin: 30px;
+  background-color: rgb(4, 168, 155);
+  color: #fff;
+}
+
+.attacking {
+  background-color: rgb(250, 58, 0);
+}
