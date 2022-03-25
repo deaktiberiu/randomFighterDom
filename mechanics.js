@@ -1,3 +1,4 @@
+"use strict";
 // player One & Two objects
 const plOne = {
   plName: "playerOne",
@@ -32,7 +33,7 @@ function switchPlayers() {
       defendingPlayer = plTwo;
     }
 
-    setTimeout(attack(attackPlayer, defendingPlayer), 10000);
+    attack(attackPlayer, defendingPlayer);
   } else {
     console.error(`game over`);
   }

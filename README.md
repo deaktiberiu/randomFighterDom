@@ -19,4 +19,4 @@ _ v) if defender does not dodge calculate the damage and reduce from health -DON
 _ vi) if healt <= 0 attacker wins -DONE
 \_ vii) if healt is >0 switch attacker with defender DONE
 
-5 - Create delay between attacks
+5 - Create delay between attacks so it's easyer for humans to follow
